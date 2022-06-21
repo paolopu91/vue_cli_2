@@ -1,6 +1,10 @@
 <template>
     <div>
-        <img src="img/la-molisana-logo.png" alt="">
+        <img src="/img/la-molisana-logo.png" alt="La Molisana Logo">
+
+        <ul class="nav">
+            
+        </ul>
     </div>
 </template>
 
@@ -11,6 +15,6 @@ export default{
 }
 </script>
 
-<style>
-
+<style scoped>
 </style>
+
